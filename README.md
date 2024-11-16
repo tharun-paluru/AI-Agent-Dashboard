@@ -17,6 +17,7 @@ The AI Agent Dashboard is a Streamlit-based application that allows users to upl
 ●  Backend  : Python
 
 
+app.py file contains all the required functions for UI and data handling and api_call file contains the api calling functions for search api and hugging face api.  
  
 
 ## Setup Instructions
