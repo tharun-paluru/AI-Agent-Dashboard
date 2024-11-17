@@ -63,7 +63,7 @@ app.py file contains all the required functions for UI and data handling and api
 - Supports filtering data based on user-defined conditions.
 
 ## Loom Video
-[Watch the Video Walkthrough](#) *(Replace `#` with the actual Loom video link after recording)*
+[Watch the Video Walkthrough](https://www.loom.com/share/e6934688ceb84b82829a801e6553010a?sid=75ec6697-e337-4ea0-be8d-c20091d3679a)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
