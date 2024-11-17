@@ -1,6 +1,6 @@
-Company,Location,Email
-Apple,Cupertino,contact@apple.com
-Google,Mountain View,contact@google.com
-Microsoft,Redmond,contact@microsoft.com
-Amazon,Seattle,contact@amazon.com
-Facebook,Menlo Park,contact@facebook.com
+Company,Location,Email,Revenue (Billion $)
+Apple,Cupertino,contact@apple.com,12
+Google,Mountain View,contact@google.com,15
+Microsoft,Redmond,contact@microsoft.com,10
+Amazon,Seattle,contact@amazon.com,8
+Facebook,Menlo Park,contact@facebook.com,9
